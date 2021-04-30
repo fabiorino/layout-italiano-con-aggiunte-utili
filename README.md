@@ -1,4 +1,6 @@
 # Layout Italiano con aggiunte utili
+Nel layout Italiano di Windows, alcuni caratteri possono essere digitati solamente tramite la combinazione di tasti ALT + numero. Questo layout aggiunge delle combinazioni che semplificano la digitazione di alcuni caratteri speciali.
+
 
 ## Combinazioni aggiunte da questo layout
 
