@@ -4,18 +4,24 @@ Nel layout Italiano di Windows, alcuni caratteri possono essere digitati solamen
 
 ## Combinazioni aggiunte da questo layout
 
-| Combinazione                                        | Risultato |
-| --------------------------------------------------- | --------- |
-| <kbd>Alt Gr</kbd> + <kbd>'</kbd>                    | `         |
-| <kbd>Alt Gr</kbd> + <kbd>ì</kbd>                    | ~         |
-| <kbd>Alt Gr</kbd> + <kbd>Shift</kbd> + <kbd>'</kbd> | ‽         |
-| <kbd>Alt Gr</kbd> + <kbd>Shift</kbd> + <kbd>1</kbd> | ‽         |
-| <kbd>Alt Gr</kbd> + <kbd>Shift</kbd> + <kbd>a</kbd> | À         |
-| <kbd>Alt Gr</kbd> + <kbd>Shift</kbd> + <kbd>e</kbd> | È         |
-| <kbd>Alt Gr</kbd> + <kbd>Shift</kbd> + <kbd>r</kbd> | É         |
-| <kbd>Alt Gr</kbd> + <kbd>Shift</kbd> + <kbd>i</kbd> | Ì         |
-| <kbd>Alt Gr</kbd> + <kbd>Shift</kbd> + <kbd>o</kbd> | Ò         |
-| <kbd>Alt Gr</kbd> + <kbd>Shift</kbd> + <kbd>u</kbd> | Ù         |
+| Combinazione                                            | Risultato |
+| ---------------------------------------------------     | --------- |
+| <kbd>Alt Gr</kbd> + <kbd>'</kbd>                        | `         |
+| <kbd>Alt Gr</kbd> + <kbd>ì</kbd>                        | ~         |
+| <kbd>Alt Gr</kbd> + <kbd>Shift</kbd> + <kbd>'</kbd>     | ‽         |
+| <kbd>Alt Gr</kbd> + <kbd>Shift</kbd> + <kbd>1</kbd>     | ‽         |
+| <kbd>Alt Gr</kbd> + <kbd>t</kbd>                        | ™         |
+| <kbd>Alt Gr</kbd> + <kbd>r</kbd>                        | ®         |
+| <kbd>Alt Gr</kbd> + <kbd>c</kbd>                        | ©         |
+| <kbd>Alt Gr</kbd> + <kbd>s</kbd>                        | ə         |
+| <kbd>Caps Lock</kbd> + <kbd>Alt Gr</kbd> + <kbd>s</kbd> | Ə         |
+| <kbd>Caps Lock</kbd> + <kbd>à</kbd>                     | À         |
+| <kbd>Caps Lock</kbd> + <kbd>è</kbd>                     | È         |
+| <kbd>Alt Gr</kbd> + <kbd>Shift</kbd> + <kbd>e</kbd>     | È         |
+| <kbd>Caps Lock</kbd> + <kbd>Shift</kbd> + <kbd>è</kbd>  | É         |
+| <kbd>Caps Lock</kbd> + <kbd>ì</kbd>                     | Ì         |
+| <kbd>Caps Lock</kbd> + <kbd>ò</kbd>                     | Ò         |
+| <kbd>Caps Lock</kbd> + <kbd>ù</kbd>                     | Ù         |
 
 ## Installazione
 
